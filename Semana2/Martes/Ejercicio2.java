@@ -1,4 +1,4 @@
-package POO.Semana2;
+package Semana2.Martes;
 import java.util.Scanner;
 public class Ejercicio2 {
     public static void main(String[] args) {

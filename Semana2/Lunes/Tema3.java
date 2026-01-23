@@ -1,4 +1,4 @@
-package POO.Semana2;
+package Semana2.Lunes;
 import java.util.Scanner;
 
 public class Tema3 {

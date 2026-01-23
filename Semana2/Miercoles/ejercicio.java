@@ -1,4 +1,4 @@
-package POO.Semana2.Miercoles;
+package Semana2.Miercoles;
 
 import java.util.Scanner;
 
