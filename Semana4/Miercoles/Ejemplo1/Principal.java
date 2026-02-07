@@ -13,5 +13,7 @@ public class Principal {
         System.out.println("Suma: " + Operaciones.sumar(n1, n2));
         System.out.println("Resta: " + Operaciones.restar(n1, n2));
         System.out.println("Multiplicación: " + Operaciones.multiplicar(n1, n2));
+        
+        sc.close();
     }
 }
